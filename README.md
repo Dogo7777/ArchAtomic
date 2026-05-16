@@ -50,7 +50,7 @@ Arch Linux com instalador automatizado, raiz imutável btrfs, linux-zen, KDE Pla
 iwctl station wlan0 connect "Nome da Rede"
 
 # 3. Baixe e rode o instalador:
-curl -sL https://raw.githubusercontent.com/SEU_USER/arch-atomico/main/install.sh -o install.sh
+curl -sL https://raw.githubusercontent.com/Dogo7777/ArchAtomic/main/install.sh -o install.sh
 bash install.sh
 ```
 
