@@ -8,7 +8,7 @@ Arch Linux com instalador automatizado, raiz imutável btrfs, linux-zen, KDE Pla
 |---|---|
 | **Kernel** | linux-zen + headers |
 | **Filesystem** | btrfs com 12 subvolumes, raiz `ro` (imutável) |
-| **Desktop** | KDE Plasma + SDDM |
+| **Desktop** | KDE Plasma + PLM |
 | **Containers** | Distrobox + Arch-base (pacman/yay) + subsistema (Ubuntu/apt) |
 | **Shell** | zsh + Oh My Zsh + Powerlevel10k |
 | **Task runner** | just (equivalente ao ujust do Bazzite) |
