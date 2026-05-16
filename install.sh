@@ -40,8 +40,8 @@ section() {
 # CONFIGURAÇÃO — editável antes de rodar
 # ══════════════════════════════════════════════════════════════════════════════
 
-GITHUB_USER="SEU_USUARIO"          # seu usuário no GitHub
-DOTFILES_REPO="dotfiles"           # nome do repositório de dotfiles
+GITHUB_USER="Dogo7777"          # seu usuário no GitHub
+DOTFILES_REPO="ArchAtomic"           # nome do repositório de dotfiles
 HOSTNAME_DEFAULT="arch-atomico"
 LOCALE="pt_BR.UTF-8"
 KEYMAP="br-abnt2"
